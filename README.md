@@ -15,8 +15,9 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
+I'm Cristian Velez, a Full Stack Web Developer from Colombia. I'm 31 years old and looking forward to meet you! Technical skills: JavaScript, Python, HTML5, CSS, React, Redux, NodeJs, Express, Webpack, Java
 
-- 🔭 I’m currently working on I'm Cristian Velez, a Full Stack Web Developer from Colombia. I'm 31 years old and looking forward to meet you! Technical skills: JavaScript, Python, HTML5, CSS, React, Redux, NodeJs, Express, Webpack, Java
+- 🔭 I’m currently working on project academic project for the development of a web application to manage a store
 
 - 🌱 I’m currently learning Data Science,AWS,Data Engineering, React Native, TypeScript 
 
